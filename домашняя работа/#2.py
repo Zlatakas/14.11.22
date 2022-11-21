@@ -1,0 +1,5 @@
+x=float(input("введите число"))
+print(x)
+y=int(input("введите число"))
+print(y)
+print(0.5*x*y)

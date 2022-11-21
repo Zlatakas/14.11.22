@@ -1,0 +1,7 @@
+x=(intput("введите число"))
+print(x)
+#y=(intput("введите число"))
+#print(y)
+#z=(intput("введите число"))
+#print(z)
+#print(x+y+z)
